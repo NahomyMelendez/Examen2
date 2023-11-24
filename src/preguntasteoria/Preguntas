@@ -1,0 +1,64 @@
+
+Parte 1. Desarollo téorico. 12 pts
+
+Lista de Preguntas Seleccione 4 de ellas unicamente.
+
+1. [3 pts] ¿Qué es la herencia en Java y cómo se implementa? 
+Proporcione un ejemplo práctico de una clase que hereda de otra, 
+y explica la relación entre la clase padre e hija.
+
+R/La herencia es una relacion entre clases que herendan de una clase padre a 
+clases hijas por ejemplo: la clase animal es la clase padre esta tiene atributos
+que comparte con otras clases como, gato o perro  que son clases hijas
+esto por se relacionan ya que ambos son animales y tienen atributos como comer.
+
+
+
+
+2.[3 pts] Explique el concepto de polimorfismo en Java. 
+Proporcione un ejemplo concreto utilizando métodos y explique cómo 
+el polimorfismo facilita el diseño de programas flexibles y extensibles.
+
+R/
+
+
+
+3.[3 pts] ¿Cuál es el propósito de una clase abstracta en Java? 
+Proporciona un ejemplo de una clase abstracta y explica cómo se diferencia
+ de una clase regular.
+
+R/una clase abstracta se puede deferenciar a una clase regular ya que cuando se 
+crea se utiliza el metodo abtract,la clase abstracta es una clase que tiene
+metodos que estan declarados pero no implementados.
+
+
+
+
+4.[3 pts] Describa cómo se pueden leer y escribir datos en archivos en Java. 
+Menciona la importancia de manejar excepciones en este contexto.
+
+
+R/ Se pueden leer con un fichero el cual debe tener exepciones por aquello que
+puede ocurrir algun problema a la hora de leer el fichero.
+
+
+
+5.[3 pts] Explica el concepto de recursividad en Java. 
+Proporciona un ejemplo de una función recursiva y discute cómo funciona,
+ así como las precauciones que deben tomarse al utilizar la recursividad.
+
+
+R/La recurcibidad es una funcion que toma un problema y volverlo más pequeño
+ y se llama a si misma  hasta que llegue al caso base de este modo se pude resolver 
+más facil,una de las precausiones que se debe tener en cuanto a recursibida es
+la memoria ya que elprocero que utiliza para resolverse utiliza mucha memoria
+ 
+
+
+6.[3 pts] ¿Cómo se gestiona dinámicamente la memoria en Java? 
+Explica cómo Java aborda la liberación de memoria.
+
+
+R/
+
+
